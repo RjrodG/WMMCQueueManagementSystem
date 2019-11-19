@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.vbprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.frmLogin.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\bin\Debug\WMMCQueueManagementSystem.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\bin\Debug\WMMCQueueManagementSystem.exe
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\bin\Debug\WMMCQueueManagementSystem.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\bin\Debug\WMMCQueueManagementSystem.xml
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.exe
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.xml
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.frmConnection.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.frmHomeMainCounter.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.frmServiceCounter.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.frmViewSkippedNo.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCQueueManagementSystem\WMMCQueueManagementSystem\obj\Debug\WMMCQueueManagementSystem.frmTransferNo.resources
